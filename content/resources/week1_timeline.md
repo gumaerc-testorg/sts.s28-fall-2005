@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: cde99f95-7b7a-3f5d-a215-411e6e5683fc
 resourcetype: Document
 title: week1_timeline.pdf
 uid: 669b2d50-c16b-3a8b-2d38-9f879758d4ac

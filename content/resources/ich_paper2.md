@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: cde99f95-7b7a-3f5d-a215-411e6e5683fc
 resourcetype: Document
 title: ich_paper2.pdf
 uid: 1aef178b-1fc8-a7a8-177a-78c19f465073
