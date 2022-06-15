@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The readings section presents the full reading list for this class as
+  well as a calendar of the reading assignments for each lecture.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -12,7 +14,7 @@ This page presents the full reading list for this class as well as a calendar of
 Required Texts
 --------------
 
-Bring the State Back in the Global/Genomic World: Racial Difference and the Transforming States of Japan, Taiwan and Singapore ([PDF]({{< baseurl >}}/resources/ich_paper2)) (Courtesy of Dr. Wen-Hua Kuo. Used with permission.)
+Bring the State Back in the Global/Genomic World: Racial Difference and the Transforming States of Japan, Taiwan and Singapore ({{% resource_link 1aef178b-1fc8-a7a8-177a-78c19f465073 "PDF" %}}) (Courtesy of Dr. Wen-Hua Kuo. Used with permission.)
 
 Bartholomew, James R. _The Formation of Science in Japan: Building a Research Tradition_. New Haven, CT: Yale University Press, 1989. ISBN: 9780300042610.
 
@@ -24,7 +26,7 @@ Dower, John W. _Embracing Defeat: Japan in the Wake of World War II_. New York, 
 
 Kingston, Jeffrey. _Japan in Transformation, 1952-2000_. New York, NY: Longman, 2001. ISBN: 9780582418752.
 
-ICH Steering Committee. "The Future of ICH - Revised 2000: A Statement by the ICH Steering Committee on the occasion of the Fifth International Conference on Harmonisation, 9-11 November 2000, San Diego." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.ich.org/fileadmin/Public_Web_Site/ABOUT_ICH/Vision/The_Future_of_ICH_-_Revised_2000.pdf))
+ICH Steering Committee. "The Future of ICH - Revised 2000: A Statement by the ICH Steering Committee on the occasion of the Fifth International Conference on Harmonisation, 9-11 November 2000, San Diego." ([PDF](http://www.ich.org/fileadmin/Public_Web_Site/ABOUT_ICH/Vision/The_Future_of_ICH_-_Revised_2000.pdf))
 
 Koizumi, Kenkichiro. "In Search of Wakon: The Cultural Dynamics of the Rise of Manufacturing Technology in Postwar Japan." _Technology and Culture_ 43, no. 1 (2002): 29-49.
 
@@ -32,7 +34,7 @@ Napier, Susan J. _Anime from Akira to Princess Mononoke: Experiencing Contempora
 
 Nishiyama, Takashi. "Cross-disciplinary Technology Transfer in Trans-World War II Japan: The Japanese High-Speed Bullet Train as a Case Study." _Comparative Technology Transfer and Society_ 1, no. 3 (2003): 305-325.
 
-Nutley, Caroline. "The Value and Benefits of ICH to Industry." 2000. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://nanopdf.com/download/value-benefits-the-value-and-benefits-of-ich-to-industry_pdf#:~:text=ICH%2C%20through%20its%20activities%20in,each%20of%20the%20three%20regions.))
+Nutley, Caroline. "The Value and Benefits of ICH to Industry." 2000. ([PDF](https://nanopdf.com/download/value-benefits-the-value-and-benefits-of-ich-to-industry_pdf#:~:text=ICH%2C%20through%20its%20activities%20in,each%20of%20the%20three%20regions.))
 
 Ohnuki-Tierney, Emiko. _Kamikaze, Cherry Blossoms, and Nationalism: The Militarization of Aesthetics in Japanese History_. Chicago, IL: University of Chicago Press, 2002. ISBN: 9780226620916.
 
@@ -73,7 +75,7 @@ Reading Assignments
 Introduction: Understanding Japan
 {{< tdclose >}}
 {{< tdopen >}}
-Timeline Comparing Japan, U.S. and Other Civilizations ([PDF]({{< baseurl >}}/resources/week1_timeline))
+Timeline Comparing Japan, U.S. and Other Civilizations ({{% resource_link 669b2d50-c16b-3a8b-2d38-9f879758d4ac "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
