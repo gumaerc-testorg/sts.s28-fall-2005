@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: Shinkansen and cherry trees, with Mt. Fuji in the background.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: sts-s28f05.jpg
 uid: 0152916b-49e4-6322-45e4-c44653e500c8
 ---
 A bullet train speeds past Mt. Fuji across the Japanese landscape.(Image courtesy of Wikipedia.)
-

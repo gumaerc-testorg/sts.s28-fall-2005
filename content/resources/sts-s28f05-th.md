@@ -9,10 +9,10 @@ image_metadata:
   credit: ''
   image-alt: Shinkansen and cherry trees, with Mt. Fuji in the background.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: sts-s28f05-th.jpg
 uid: a0c0bc56-9f33-5a8a-175c-0bc6fde17d90
 ---
 New image Upload
-

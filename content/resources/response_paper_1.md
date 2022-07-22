@@ -6,6 +6,7 @@ file: /courses/sts-s28-godzilla-and-the-bullet-train-technology-and-culture-in-m
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: response_paper_1.pdf
 uid: b4b35555-44b5-1db8-1eae-c1b1c8ac47ec
 ---
 This resource contains two set questions based on chapters 1 and 2 of The Formation of Science in Japan: Building a Research Tradition by James. R. Bartholomew.
-

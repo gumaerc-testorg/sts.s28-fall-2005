@@ -5,6 +5,7 @@ file: /courses/sts-s28-godzilla-and-the-bullet-train-technology-and-culture-in-m
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: response_paper_2.pdf
 uid: eb53d124-dbcf-9ca2-769f-e6b3cf692f03
 ---
 This file contains response paper 2 for this course.
-

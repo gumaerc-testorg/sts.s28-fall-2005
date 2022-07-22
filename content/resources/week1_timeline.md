@@ -5,6 +5,7 @@ file: /courses/sts-s28-godzilla-and-the-bullet-train-technology-and-culture-in-m
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: week1_timeline.pdf
 uid: 669b2d50-c16b-3a8b-2d38-9f879758d4ac
 ---
 This file contains time table for Japan, U.S. and other civilizations.
-

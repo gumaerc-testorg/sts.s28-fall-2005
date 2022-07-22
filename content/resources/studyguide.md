@@ -6,6 +6,7 @@ file: /courses/sts-s28-godzilla-and-the-bullet-train-technology-and-culture-in-m
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: studyguide.pdf
 uid: 267cc6bc-fee2-9643-e007-ef117e206b70
 ---
 This resource is a study guide cum assignment.  It lists two reading assignments and asks students to be ready for them.
-
