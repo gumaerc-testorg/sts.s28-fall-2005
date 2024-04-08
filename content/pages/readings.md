@@ -26,7 +26,7 @@ Dower, John W. _Embracing Defeat: Japan in the Wake of World War II_. New York, 
 
 Kingston, Jeffrey. _Japan in Transformation, 1952-2000_. New York, NY: Longman, 2001. ISBN: 9780582418752.
 
-ICH Steering Committee. "The Future of ICH - Revised 2000: A Statement by the ICH Steering Committee on the occasion of the Fifth International Conference on Harmonisation, 9-11 November 2000, San Diego." ([PDF](http://www.ich.org/fileadmin/Public_Web_Site/ABOUT_ICH/Vision/The_Future_of_ICH_-_Revised_2000.pdf))
+ICH Steering Committee. "The Future of ICH - Revised 2000: A Statement by the ICH Steering Committee on the occasion of the Fifth International Conference on Harmonisation, 9-11 November 2000, San Diego." ({{% resource_link "8c89bb59-4802-40c9-b92d-b84218f0d8d9" "PDF" %}})
 
 Koizumi, Kenkichiro. "In Search of Wakon: The Cultural Dynamics of the Rise of Manufacturing Technology in Postwar Japan." _Technology and Culture_ 43, no. 1 (2002): 29-49.
 
@@ -34,7 +34,7 @@ Napier, Susan J. _Anime from Akira to Princess Mononoke: Experiencing Contempora
 
 Nishiyama, Takashi. "Cross-disciplinary Technology Transfer in Trans-World War II Japan: The Japanese High-Speed Bullet Train as a Case Study." _Comparative Technology Transfer and Society_ 1, no. 3 (2003): 305-325.
 
-Nutley, Caroline. "The Value and Benefits of ICH to Industry." 2000. ([PDF](https://nanopdf.com/download/value-benefits-the-value-and-benefits-of-ich-to-industry_pdf#:~:text=ICH%2C%20through%20its%20activities%20in,each%20of%20the%20three%20regions.))
+Nutley, Caroline. "The Value and Benefits of ICH to Industry." 2000. ({{% resource_link "df8ed83e-da74-48ef-a177-5d45c714e904" "PDF" %}})
 
 Ohnuki-Tierney, Emiko. _Kamikaze, Cherry Blossoms, and Nationalism: The Militarization of Aesthetics in Japanese History_. Chicago, IL: University of Chicago Press, 2002. ISBN: 9780226620916.
 
@@ -101,7 +101,7 @@ Tokugawa Japan, 1600-1868
 {{< tdopen >}}
 Bartholomew, chapters 1 and 2, pp. 1-48.  
   
-[Black Ships and Samurai](https://visualizingcultures.mit.edu/black_ships_and_samurai/index.html)
+{{% resource_link "f720bdc1-7005-4fbb-931e-a01b2a8f5613" "Black Ships and Samurai" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -139,7 +139,7 @@ _Kamikazation_ of Japan, 1937-1945
 {{< tdopen >}}
 Ohnuki-Tierney, chapter 5, pp. 157-185.  
   
-[Kamikaze Images](http://wgordon.web.wesleyan.edu/kamikaze/index.htm)
+{{% resource_link "7dc75fab-f5bf-41ca-88ae-9d3afe92d17f" "Kamikaze Images" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

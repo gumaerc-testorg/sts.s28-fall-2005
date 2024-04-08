@@ -2,10 +2,12 @@
 content_type: resource
 description: New image Upload
 file: /courses/sts-s28-godzilla-and-the-bullet-train-technology-and-culture-in-modern-japan-fall-2005/a0c0bc569f335a8a175c0bc6fde17d90_sts-s28f05-th.jpg
+file_size: 9417
 file_type: image/jpeg
 image_metadata:
   caption: A bullet train speeds past Mt. Fuji across the Japanese landscape. (Image
-    courtesy of [Wikipedia](http://en.wikipedia.org/wiki/Main_Page).)
+    courtesy of {{% resource_link "df80abb6-5a81-4066-885f-2aae8e62a850" "Wikipedia"
+    %}}.)
   credit: ''
   image-alt: Shinkansen and cherry trees, with Mt. Fuji in the background.
 learning_resource_types: []
