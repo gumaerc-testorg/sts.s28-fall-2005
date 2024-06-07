@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains response to the response paper 1 given as assignment.
 file: /courses/sts-s28-godzilla-and-the-bullet-train-technology-and-culture-in-modern-japan-fall-2005/dae8499a6741d6f63a55763b19d9c794_student_respons1.pdf
+file_size: 11769
 file_type: application/pdf
 learning_resource_types:
 - Assignments
