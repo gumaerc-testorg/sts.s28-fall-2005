@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/sts-s28-godzilla-and-the-bullet-train-technology-and-culture-in-modern-japan-fall-2005/6c8e6fa1a2ba94adf03c569c5ff0894e_assignment2.pdf
+file_size: 11108
 file_type: application/pdf
 learning_resource_types:
 - Assignments

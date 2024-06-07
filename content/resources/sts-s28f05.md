@@ -7,8 +7,7 @@ file_size: 83321
 file_type: image/jpeg
 image_metadata:
   caption: A bullet train speeds past Mt. Fuji across the Japanese landscape. (Image
-    courtesy of {{% resource_link "df80abb6-5a81-4066-885f-2aae8e62a850" "Wikipedia"
-    %}}.)
+    courtesy of [Wikipedia](http://en.wikipedia.org/wiki/Main_Page).)
   credit: ''
   image-alt: Shinkansen and cherry trees, with Mt. Fuji in the background.
 learning_resource_types: []
