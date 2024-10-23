@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains response paper 2 for this course.
-file: /courses/sts-s28-godzilla-and-the-bullet-train-technology-and-culture-in-modern-japan-fall-2005/eb53d124dbcf9ca2769fe6b3cf692f03_response_paper_2.pdf
+file: /ol-ocw-studio-app/courses/sts-s28-godzilla-and-the-bullet-train-technology-and-culture-in-modern-japan-fall-2005/eb53d124dbcf9ca2769fe6b3cf692f03_response_paper_2.pdf
 file_size: 10254
 file_type: application/pdf
 learning_resource_types:

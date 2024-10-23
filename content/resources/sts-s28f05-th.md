@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /courses/sts-s28-godzilla-and-the-bullet-train-technology-and-culture-in-modern-japan-fall-2005/a0c0bc569f335a8a175c0bc6fde17d90_sts-s28f05-th.jpg
+file: /ol-ocw-studio-app/courses/sts-s28-godzilla-and-the-bullet-train-technology-and-culture-in-modern-japan-fall-2005/a0c0bc569f335a8a175c0bc6fde17d90_sts-s28f05-th.jpg
 file_size: 9417
 file_type: image/jpeg
 image_metadata:
