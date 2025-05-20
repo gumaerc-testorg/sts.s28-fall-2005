@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is a study guide cum assignment.  It lists two reading
   assignments and asks students to be ready for them.
-file: /ol-ocw-studio-app/courses/sts-s28-godzilla-and-the-bullet-train-technology-and-culture-in-modern-japan-fall-2005/267cc6bcfee29643e007ef117e206b70_studyguide.pdf
+file: /courses/sts-s28-godzilla-and-the-bullet-train-technology-and-culture-in-modern-japan-fall-2005/267cc6bcfee29643e007ef117e206b70_studyguide.pdf
 file_size: 39645
 file_type: application/pdf
 learning_resource_types:
